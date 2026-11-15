@@ -1,0 +1,173 @@
+{
+  "name": "Fadhil Khalid",
+  "headline": "Business Operations Architect | Business Systems Architecture | Transformation & Decision Intelligence",
+  "location": "Malaysia",
+  "masterStatement": "I design systems that turn organisational ambiguity into clarity, alignment, and decisions people trust.",
+  "summary": "Business and transformation architect working at the intersection of operating models, information architecture, governance and digital enablement. I translate fragmented processes and disconnected data into coherent systems, decision-ready information and solutions people can adopt.",
+  "principles": [
+    {
+      "number": "01",
+      "title": "Understand the work",
+      "text": "Study the real workflow, decision points and friction before choosing a technology or imposing a process."
+    },
+    {
+      "number": "02",
+      "title": "Establish shared meaning",
+      "text": "Define information, ownership and governance so teams can work from the same operational reality."
+    },
+    {
+      "number": "03",
+      "title": "Design for leverage",
+      "text": "Build reusable foundations that reduce manual coordination, duplicated effort and reconciliation."
+    },
+    {
+      "number": "04",
+      "title": "Make adoption natural",
+      "text": "Connect business context, data structures and usable tools so the system supports people rather than creating work around itself."
+    }
+  ],
+  "career": [
+    {
+      "employer": "Dyson",
+      "title": "Business Operations Architect",
+      "level": "D07",
+      "start": "Nov 2026",
+      "end": "Present",
+      "scope": "Business operations data architecture and information governance across Design Engineering, Graphics & Packaging, and Technology Development & Verifications."
+    },
+    {
+      "employer": "Dyson",
+      "title": "Lead Strategy & Transformation Engineer",
+      "start": "Mar 2024",
+      "end": "Nov 2026",
+      "scope": "Business systems, portfolio governance, capability planning, operational intelligence and digital transformation across engineering functions."
+    },
+    {
+      "employer": "Dyson",
+      "title": "Senior Design Engineer · Global Design Engineering (Sustaining)",
+      "start": "Jan 2018",
+      "end": "Mar 2024",
+      "scope": "Engineering delivery and programme-level coordination, with expanded sustaining portfolio leadership responsibilities."
+    },
+    {
+      "employer": "Dyson",
+      "title": "Design Engineer",
+      "start": "Jun 2013",
+      "end": "Dec 2017",
+      "scope": "Product engineering and cross-functional delivery in a global consumer technology environment."
+    },
+    {
+      "employer": "Proton Holdings Berhad",
+      "title": "Mechanical Design Engineer",
+      "start": "Earlier career",
+      "end": "",
+      "scope": "Early-career automotive engineering experience, building practical foundations in product development and problem solving."
+    },
+    {
+      "employer": "SEGi University & Colleges",
+      "title": "Lecturer",
+      "start": "Earlier career",
+      "end": "",
+      "scope": "Taught diploma students and developed learning and syllabus content."
+    }
+  ],
+  "capabilities": [
+    {
+      "name": "Business & operating model architecture",
+      "group": "Architecture"
+    },
+    {
+      "name": "Information & data architecture",
+      "group": "Architecture"
+    },
+    {
+      "name": "Governance & decision rights",
+      "group": "Governance"
+    },
+    {
+      "name": "Portfolio & capability management",
+      "group": "Governance"
+    },
+    {
+      "name": "Digital transformation & process redesign",
+      "group": "Transformation"
+    },
+    {
+      "name": "Decision intelligence & executive reporting",
+      "group": "Intelligence"
+    },
+    {
+      "name": "Low-code solution architecture",
+      "group": "Technology"
+    },
+    {
+      "name": "Workflow automation & integration",
+      "group": "Technology"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "EV-001",
+      "title": "Portfolio governance transformation",
+      "summary": "Evolved an existing application into a structured portfolio information workflow, replacing manually consolidated reporting with governed data capture, synchronisation and on-demand management visibility.",
+      "tags": [
+        "business-operations",
+        "enterprise-architecture",
+        "transformation",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EV-002",
+      "title": "Enterprise capability-management platform",
+      "summary": "Architected and evolved a digital capability-management platform, replacing fragmented spreadsheet-based planning with a structured, self-service approach to capability visibility and planning.",
+      "tags": [
+        "enterprise-architecture",
+        "digital-transformation",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EV-004",
+      "title": "Operational information architecture",
+      "summary": "Mapped relationships across interconnected operational data structures and designed an integrated information layer to improve visibility of dependencies, bottlenecks and decision gaps.",
+      "tags": [
+        "enterprise-architecture",
+        "business-operations",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EV-011",
+      "title": "Portfolio intelligence and automated governance",
+      "summary": "Designed and sustained a portfolio intelligence system that consolidated performance information, surfaced exceptions and embedded automated data-quality and lifecycle controls.",
+      "tags": [
+        "business-operations",
+        "digital-transformation",
+        "strategy"
+      ]
+    },
+    {
+      "id": "EV-015",
+      "title": "Lean low-code engineering workflow",
+      "summary": "Optimised an existing low-code solution through reverse engineering, lean architecture and an AI-assisted design-to-implementation workflow.",
+      "tags": [
+        "digital-transformation",
+        "business-operations",
+        "strategy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "qualification": "Bachelor of Mechanical Engineering (Automotive) with Honours",
+      "institution": "Universiti Teknikal Malaysia Melaka",
+      "period": "2006–2011"
+    }
+  ],
+  "contact": {
+    "email": "",
+    "linkedin": "",
+    "github": "https://github.com/fadhilkhalid"
+  }
+}
