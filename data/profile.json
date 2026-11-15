@@ -33,35 +33,35 @@
       "level": "D07",
       "start": "Nov 2026",
       "end": "Present",
-      "scope": "Business operations data architecture and information governance across Design Engineering, Graphics & Packaging, and Technology Development & Verifications."
+      "scope": "Business operations data architecture and information governance across Design Engineering, Graphics & Packaging, and Technology Development & Verifications, supporting a function of approximately 1,200 people."
     },
     {
       "employer": "Dyson",
       "title": "Lead Strategy & Transformation Engineer",
       "start": "Mar 2024",
       "end": "Nov 2026",
-      "scope": "Business systems, portfolio governance, capability planning, operational intelligence and digital transformation across engineering functions."
+      "scope": "Led business systems and transformation initiatives across engineering, including portfolio governance, enterprise capability planning, operational intelligence, engineering approval workflows and digital enablement."
     },
     {
       "employer": "Dyson",
       "title": "Senior Design Engineer · Global Design Engineering (Sustaining)",
       "start": "Jan 2018",
       "end": "Mar 2024",
-      "scope": "Engineering delivery and programme-level coordination, with expanded sustaining portfolio leadership responsibilities."
+      "scope": "Engineering delivery and programme-level coordination across sustaining engineering. Programme-lead responsibilities were an expanded scope within this official role, not a separate formal job title."
     },
     {
       "employer": "Dyson",
       "title": "Design Engineer",
-      "start": "Jun 2013",
-      "end": "Dec 2017",
-      "scope": "Product engineering and cross-functional delivery in a global consumer technology environment."
+      "start": "Earlier career",
+      "end": "",
+      "scope": "Product engineering and cross-functional delivery in a global consumer technology environment. Historical dates remain subject to CV reconciliation."
     },
     {
       "employer": "Proton Holdings Berhad",
       "title": "Mechanical Design Engineer",
       "start": "Earlier career",
       "end": "",
-      "scope": "Early-career automotive engineering experience, building practical foundations in product development and problem solving."
+      "scope": "Early-career automotive engineering experience, building practical foundations in product development and root-cause problem solving."
     },
     {
       "employer": "SEGi University & Colleges",
@@ -107,7 +107,6 @@
   ],
   "achievements": [
     {
-      "id": "EV-001",
       "title": "Portfolio governance transformation",
       "summary": "Evolved an existing application into a structured portfolio information workflow, replacing manually consolidated reporting with governed data capture, synchronisation and on-demand management visibility.",
       "tags": [
@@ -118,7 +117,6 @@
       ]
     },
     {
-      "id": "EV-002",
       "title": "Enterprise capability-management platform",
       "summary": "Architected and evolved a digital capability-management platform, replacing fragmented spreadsheet-based planning with a structured, self-service approach to capability visibility and planning.",
       "tags": [
@@ -128,7 +126,6 @@
       ]
     },
     {
-      "id": "EV-004",
       "title": "Operational information architecture",
       "summary": "Mapped relationships across interconnected operational data structures and designed an integrated information layer to improve visibility of dependencies, bottlenecks and decision gaps.",
       "tags": [
@@ -138,7 +135,6 @@
       ]
     },
     {
-      "id": "EV-011",
       "title": "Portfolio intelligence and automated governance",
       "summary": "Designed and sustained a portfolio intelligence system that consolidated performance information, surfaced exceptions and embedded automated data-quality and lifecycle controls.",
       "tags": [
@@ -148,7 +144,6 @@
       ]
     },
     {
-      "id": "EV-015",
       "title": "Lean low-code engineering workflow",
       "summary": "Optimised an existing low-code solution through reverse engineering, lean architecture and an AI-assisted design-to-implementation workflow.",
       "tags": [
