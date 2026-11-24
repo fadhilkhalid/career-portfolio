@@ -1,29 +1,29 @@
 {
   "name": "Fadhil Khalid",
-  "headline": "Business Operations Architect | Business Systems Architecture | Transformation & Decision Intelligence",
+  "headline": "Business Operations Architect | Business & Information Architecture | Operational Systems",
   "location": "Malaysia",
-  "masterStatement": "I design systems that turn organisational ambiguity into clarity, alignment, and decisions people trust.",
-  "summary": "Business and transformation architect working at the intersection of operating models, information architecture, governance and digital enablement. I translate fragmented processes and disconnected data into coherent systems, decision-ready information and solutions people can adopt.",
+  "masterStatement": "I connect how a business works with the information and systems it depends on—turning fragmented operations into clarity, alignment and decisions people can trust.",
+  "summary": "Business Operations Architect with an engineering foundation, working across business architecture, information architecture, operational intelligence and digital systems. I start by understanding how work actually happens: the processes, people, decisions, data and dependencies behind an operating function. I connect separately maintained information, reconcile definitions and relationships, identify gaps, and design practical systems that preserve functional ownership. I combine data modelling and integration with hands-on workflow, automation and application design. I evolve existing systems through controlled, minimum-change improvements—considering data quality, schema changes, backward compatibility and downstream impact—rather than rebuilding without need.",
   "principles": [
     {
       "number": "01",
-      "title": "Understand the work",
-      "text": "Study the real workflow, decision points and friction before choosing a technology or imposing a process."
+      "title": "Understand the operating reality",
+      "text": "Study how work happens across people, processes, decisions and information before deciding what to change."
     },
     {
       "number": "02",
       "title": "Establish shared meaning",
-      "text": "Define information, ownership and governance so teams can work from the same operational reality."
+      "text": "Reconcile definitions, relationships and ownership so different teams can work from a coherent view without erasing functional accountability."
     },
     {
       "number": "03",
-      "title": "Design for leverage",
-      "text": "Build reusable foundations that reduce manual coordination, duplicated effort and reconciliation."
+      "title": "Evolve, don't rebuild by default",
+      "text": "Preserve what works. Make controlled changes to data structures and workflows while considering quality, compatibility and downstream effects."
     },
     {
       "number": "04",
-      "title": "Make adoption natural",
-      "text": "Connect business context, data structures and usable tools so the system supports people rather than creating work around itself."
+      "title": "Design for sustainable use",
+      "text": "Connect business context, information architecture and practical technology so the system reduces friction instead of creating more work."
     }
   ],
   "career": [
@@ -33,42 +33,42 @@
       "level": "D07",
       "start": "Nov 2026",
       "end": "Present",
-      "scope": "Business operations data architecture and information governance across Design Engineering, Graphics & Packaging, and Technology Development & Verifications, supporting a function of approximately 1,200 people."
+      "scope": "Cross-functional business information architecture, operational data governance and supporting system design across engineering and technology functions."
     },
     {
       "employer": "Dyson",
       "title": "Lead Strategy & Transformation Engineer",
       "start": "Mar 2024",
       "end": "Nov 2026",
-      "scope": "Led business systems and transformation initiatives across engineering, including portfolio governance, enterprise capability planning, operational intelligence, engineering approval workflows and digital enablement."
+      "scope": "Led business systems and transformation initiatives across engineering, including portfolio governance, capability planning, operational intelligence, reporting and workflow automation."
     },
     {
       "employer": "Dyson",
       "title": "Senior Design Engineer · Global Design Engineering (Sustaining)",
       "start": "Jan 2018",
       "end": "Mar 2024",
-      "scope": "Engineering delivery and programme-level coordination across sustaining engineering. Programme-lead responsibilities were an expanded scope within this official role, not a separate formal job title."
+      "scope": "Engineering delivery and programme-level coordination across sustaining engineering. Programme responsibilities were an expanded scope within the official engineering role."
     },
     {
       "employer": "Dyson",
-      "title": "Design Engineer",
-      "start": "Earlier career",
-      "end": "",
-      "scope": "Product engineering and cross-functional delivery in a global consumer technology environment. Historical dates remain subject to CV reconciliation."
+      "title": "Design Engineer · Global Design Engineering",
+      "start": "Jun 2013",
+      "end": "Dec 2017",
+      "scope": "Product development and engineering delivery in a global design engineering environment."
     },
     {
       "employer": "Proton Holdings Berhad",
       "title": "Mechanical Design Engineer",
-      "start": "Earlier career",
-      "end": "",
-      "scope": "Early-career automotive engineering experience, building practical foundations in product development and root-cause problem solving."
+      "start": "Sep 2011",
+      "end": "Jun 2013",
+      "scope": "Mechanical design and automotive product development."
     },
     {
       "employer": "SEGi University & Colleges",
       "title": "Lecturer",
-      "start": "Earlier career",
-      "end": "",
-      "scope": "Taught diploma students and developed learning and syllabus content."
+      "start": "Mar 2011",
+      "end": "Aug 2011",
+      "scope": "Taught diploma-level students and developed learning materials."
     }
   ],
   "capabilities": [
@@ -77,47 +77,64 @@
       "group": "Architecture"
     },
     {
+      "name": "Business & information modelling",
+      "group": "Architecture"
+    },
+    {
       "name": "Information & data architecture",
       "group": "Architecture"
     },
     {
-      "name": "Governance & decision rights",
-      "group": "Governance"
+      "name": "Data integration & governance",
+      "group": "Information"
+    },
+    {
+      "name": "Data quality & lifecycle management",
+      "group": "Information"
+    },
+    {
+      "name": "Schema evolution & change-impact analysis",
+      "group": "Information"
     },
     {
       "name": "Portfolio & capability management",
       "group": "Governance"
     },
     {
-      "name": "Digital transformation & process redesign",
-      "group": "Transformation"
-    },
-    {
-      "name": "Decision intelligence & executive reporting",
+      "name": "Operational intelligence & decision support",
       "group": "Intelligence"
     },
     {
-      "name": "Low-code solution architecture",
-      "group": "Technology"
+      "name": "Process redesign & workflow rationalisation",
+      "group": "Transformation"
     },
     {
-      "name": "Workflow automation & integration",
+      "name": "Digital systems & workflow automation",
       "group": "Technology"
     }
   ],
   "achievements": [
     {
-      "title": "Portfolio governance transformation",
-      "summary": "Evolved an existing application into a structured portfolio information workflow, replacing manually consolidated reporting with governed data capture, synchronisation and on-demand management visibility.",
+      "title": "Cross-functional information architecture",
+      "summary": "Connected separately maintained operational information by understanding business processes, reconciling definitions and data relationships, identifying gaps and designing an integrated view while preserving functional ownership.",
       "tags": [
         "business-operations",
         "enterprise-architecture",
-        "transformation",
         "strategy"
       ]
     },
     {
-      "title": "Enterprise capability-management platform",
+      "title": "Portfolio governance and reporting system",
+      "summary": "Evolved an existing application into a structured portfolio information workflow, replacing manually consolidated reporting with governed data capture, synchronisation and on-demand management visibility.",
+      "tags": [
+        "business-operations",
+        "enterprise-architecture",
+        "digital-transformation",
+        "strategy"
+      ]
+    },
+    {
+      "title": "Enterprise capability-planning platform",
       "summary": "Architected and evolved a digital capability-management platform, replacing fragmented spreadsheet-based planning with a structured, self-service approach to capability visibility and planning.",
       "tags": [
         "enterprise-architecture",
@@ -126,30 +143,21 @@
       ]
     },
     {
-      "title": "Operational information architecture",
-      "summary": "Mapped relationships across interconnected operational data structures and designed an integrated information layer to improve visibility of dependencies, bottlenecks and decision gaps.",
+      "title": "Operational intelligence and data integration",
+      "summary": "Mapped relationships across interconnected operational data structures and designed an integrated information layer to make dependencies, bottlenecks and decision gaps easier to understand.",
       "tags": [
+        "business-operations",
         "enterprise-architecture",
-        "business-operations",
         "strategy"
       ]
     },
     {
-      "title": "Portfolio intelligence and automated governance",
-      "summary": "Designed and sustained a portfolio intelligence system that consolidated performance information, surfaced exceptions and embedded automated data-quality and lifecycle controls.",
+      "title": "Evolutionary low-code systems design",
+      "summary": "Improved existing business applications through data preparation, workflow rationalisation and controlled structural changes—balancing usability, maintainability, compatibility and downstream impact.",
       "tags": [
         "business-operations",
         "digital-transformation",
-        "strategy"
-      ]
-    },
-    {
-      "title": "Lean low-code engineering workflow",
-      "summary": "Optimised an existing low-code solution through reverse engineering, lean architecture and an AI-assisted design-to-implementation workflow.",
-      "tags": [
-        "digital-transformation",
-        "business-operations",
-        "strategy"
+        "enterprise-architecture"
       ]
     }
   ],
