@@ -4,34 +4,35 @@
     {
       "id": "business-operations",
       "label": "Business Operations Architect",
-      "headline": "Business Operations Architect | Information Architecture | Operational Governance",
-      "summary": "Business Operations Architect focused on structuring operational information, aligning business definitions and establishing trusted data foundations across functions. Connects business context, ownership and data architecture to create a coherent source of truth that supports operational decisions and scalable ways of working.",
+      "headline": "Business Operations Architecture | Information Architecture | Operational Systems",
+      "summary": "Business Operations Architect focused on understanding how functions operate, connecting separately maintained information, reconciling business definitions and designing sustainable operational systems. Combines business discovery, information architecture, data governance and practical implementation to support coherent decisions while preserving functional ownership.",
       "capabilities": [
         "Business & operating model architecture",
+        "Business & information modelling",
         "Information & data architecture",
-        "Governance & decision rights",
-        "Portfolio & capability management",
-        "Decision intelligence & executive reporting",
-        "Workflow automation & integration"
+        "Data integration & governance",
+        "Data quality & lifecycle management",
+        "Process redesign & workflow rationalisation",
+        "Operational intelligence & decision support"
       ],
       "tags": [
         "business-operations",
-        "enterprise-architecture",
-        "digital-transformation"
+        "enterprise-architecture"
       ]
     },
     {
       "id": "enterprise-architect",
-      "label": "Enterprise Architect",
-      "headline": "Enterprise Architecture | Business Architecture | Information & Data Architecture",
-      "summary": "Business-focused architect connecting operating models, information architecture, governance and technology enablement. Translates fragmented business domains into coherent structures, shared definitions and reusable foundations, aligning systems and information with how the organisation needs to operate.",
+      "label": "Enterprise / Business Architect",
+      "headline": "Business Architecture | Enterprise Information Architecture | Transformation",
+      "summary": "Business-focused architect connecting operating models, information architecture, governance and technology enablement. Translates fragmented business domains into coherent structures, shared definitions and reusable foundations aligned with how the organisation needs to operate.",
       "capabilities": [
         "Business & operating model architecture",
+        "Business & information modelling",
         "Information & data architecture",
-        "Governance & decision rights",
+        "Data integration & governance",
         "Portfolio & capability management",
-        "Low-code solution architecture",
-        "Workflow automation & integration"
+        "Schema evolution & change-impact analysis",
+        "Digital systems design"
       ],
       "tags": [
         "enterprise-architecture",
@@ -43,14 +44,14 @@
       "id": "digital-transformation",
       "label": "Digital Transformation Leader",
       "headline": "Digital Transformation | Business Systems | Process & Data Enablement",
-      "summary": "Transformation leader who redesigns the systems behind work, not simply digitises existing tasks. Combines process discovery, information architecture, workflow redesign and practical technology to reduce fragmentation, improve governance and build solutions people adopt.",
+      "summary": "Transformation leader who redesigns the systems behind work, not simply digitises existing tasks. Combines process discovery, information architecture, workflow redesign and practical technology to reduce fragmentation, improve governance and build solutions people can adopt.",
       "capabilities": [
         "Digital transformation & process redesign",
         "Business & operating model architecture",
         "Portfolio & capability management",
-        "Decision intelligence & executive reporting",
-        "Low-code solution architecture",
-        "Workflow automation & integration"
+        "Operational intelligence & decision support",
+        "Digital systems & workflow automation",
+        "Data quality & lifecycle management"
       ],
       "tags": [
         "digital-transformation",
@@ -61,13 +62,13 @@
     {
       "id": "strategy-transformation",
       "label": "Strategy & Transformation",
-      "headline": "Strategy & Transformation | Operating Model Design | Decision Intelligence",
+      "headline": "Strategy & Transformation | Operating Model | Decision Intelligence",
       "summary": "Strategic transformation practitioner who turns organisational ambiguity into aligned operating structures and decision-ready information. Works across functions to clarify priorities, expose dependencies and design governance and information systems that improve leadership visibility and execution coherence.",
       "capabilities": [
         "Business & operating model architecture",
         "Governance & decision rights",
         "Portfolio & capability management",
-        "Decision intelligence & executive reporting",
+        "Operational intelligence & decision support",
         "Information & data architecture",
         "Digital transformation & process redesign"
       ],
