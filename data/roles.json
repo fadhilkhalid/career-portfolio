@@ -5,7 +5,7 @@
       "id": "business-operations",
       "label": "Business Operations Architect",
       "headline": "Business Operations Architecture | Information Architecture | Operational Systems",
-      "summary": "Business Operations Architect focused on understanding how functions operate, connecting separately maintained information, reconciling business definitions and designing sustainable operational systems. Combines business discovery, information architecture, data governance and practical implementation to support coherent decisions while preserving functional ownership.",
+      "summary": "Business Operations Architect focused on discovering how functions actually operate, including the informal information flows and dependencies that sustain delivery. Connects separately maintained information, reconciles business definitions and ownership, and designs sustainable operational systems that support coherent decisions without displacing functional accountability.",
       "capabilities": [
         "Business & operating model architecture",
         "Business & information modelling",
@@ -24,7 +24,7 @@
       "id": "enterprise-architect",
       "label": "Enterprise / Business Architect",
       "headline": "Business Architecture | Enterprise Information Architecture | Transformation",
-      "summary": "Business-focused architect connecting operating models, information architecture, governance and technology enablement. Translates fragmented business domains into coherent structures, shared definitions and reusable foundations aligned with how the organisation needs to operate.",
+      "summary": "Business-focused architect who makes complex organisations more understandable by connecting operating models, information flows, governance and technology. Discovers actual practices and hidden dependencies, then translates them into coherent structures, shared definitions and sustainable foundations aligned with how the organisation needs to operate.",
       "capabilities": [
         "Business & operating model architecture",
         "Business & information modelling",
@@ -44,7 +44,7 @@
       "id": "digital-transformation",
       "label": "Digital Transformation Leader",
       "headline": "Digital Transformation | Business Systems | Process & Data Enablement",
-      "summary": "Transformation leader who redesigns the systems behind work, not simply digitises existing tasks. Combines process discovery, information architecture, workflow redesign and practical technology to reduce fragmentation, improve governance and build solutions people can adopt.",
+      "summary": "Transformation leader who starts by understanding how work actually happens—including informal handoffs, information flows and workarounds—before redesigning it. Combines process discovery, information architecture, workflow redesign and practical technology to reduce fragmentation, improve governance and build solutions people can adopt.",
       "capabilities": [
         "Digital transformation & process redesign",
         "Business & operating model architecture",
@@ -63,7 +63,7 @@
       "id": "strategy-transformation",
       "label": "Strategy & Transformation",
       "headline": "Strategy & Transformation | Operating Model | Decision Intelligence",
-      "summary": "Strategic transformation practitioner who turns organisational ambiguity into aligned operating structures and decision-ready information. Works across functions to clarify priorities, expose dependencies and design governance and information systems that improve leadership visibility and execution coherence.",
+      "summary": "Strategic transformation practitioner who makes organisational complexity understandable by exposing hidden dependencies, fragmented information and decision gaps. Works across functions to clarify operating realities, align governance and design information systems that improve leadership visibility and execution coherence.",
       "capabilities": [
         "Business & operating model architecture",
         "Governance & decision rights",
