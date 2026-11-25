@@ -2,28 +2,28 @@
   "name": "Fadhil Khalid",
   "headline": "Business Operations Architect | Business & Information Architecture | Operational Systems",
   "location": "Malaysia",
-  "masterStatement": "I connect how a business works with the information and systems it depends on—turning fragmented operations into clarity, alignment and decisions people can trust.",
-  "summary": "Business Operations Architect with an engineering foundation, working across business architecture, information architecture, operational intelligence and digital systems. I start by understanding how work actually happens: the processes, people, decisions, data and dependencies behind an operating function. I connect separately maintained information, reconcile definitions and relationships, identify gaps, and design practical systems that preserve functional ownership. I combine data modelling and integration with hands-on workflow, automation and application design. I evolve existing systems through controlled, minimum-change improvements—considering data quality, schema changes, backward compatibility and downstream impact—rather than rebuilding without need.",
+  "masterStatement": "I make complex organisations easier to understand by connecting how work actually happens with the information, decisions and systems that sustain it.",
+  "summary": "Business Operations Architect with an engineering foundation, working across business architecture, information architecture, operational intelligence and digital systems. I begin by discovering how work actually happens—not only through documented processes and formal systems, but also through the informal information flows, handoffs, decisions and dependencies that keep an organisation moving. I trace how people, processes and information connect; reconcile definitions, relationships and ownership; and design practical systems that make critical operations more visible, coherent and sustainable. I combine data modelling and integration with hands-on workflow, automation and application design, evolving existing systems through controlled changes that consider data quality, compatibility and downstream impact.",
   "principles": [
     {
       "number": "01",
-      "title": "Understand the operating reality",
-      "text": "Study how work happens across people, processes, decisions and information before deciding what to change."
+      "title": "Discover how the organisation really works",
+      "text": "Look beyond organisation charts and documented procedures. Understand the people, routines, informal workarounds and dependencies that sustain day-to-day outcomes."
     },
     {
       "number": "02",
-      "title": "Establish shared meaning",
-      "text": "Reconcile definitions, relationships and ownership so different teams can work from a coherent view without erasing functional accountability."
+      "title": "Make critical flows visible",
+      "text": "Trace how information, decisions and work move across teams. Identify where knowledge sits, where handoffs break down and which dependencies remain hidden."
     },
     {
       "number": "03",
-      "title": "Evolve, don't rebuild by default",
-      "text": "Preserve what works. Make controlled changes to data structures and workflows while considering quality, compatibility and downstream effects."
+      "title": "Create shared meaning without erasing ownership",
+      "text": "Reconcile definitions, relationships and responsibilities so teams can work from a coherent view while accountable functions retain their decision rights."
     },
     {
       "number": "04",
-      "title": "Design for sustainable use",
-      "text": "Connect business context, information architecture and practical technology so the system reduces friction instead of creating more work."
+      "title": "Design for sustainable operation",
+      "text": "Turn validated understanding into appropriate process, information and technology structures that preserve what works, reduce fragility and support continuous improvement."
     }
   ],
   "career": [
@@ -116,7 +116,7 @@
   "achievements": [
     {
       "title": "Cross-functional information architecture",
-      "summary": "Connected separately maintained operational information by understanding business processes, reconciling definitions and data relationships, identifying gaps and designing an integrated view while preserving functional ownership.",
+      "summary": "Explored how work and information moved across separately managed functions, surfaced hidden dependencies and fragmented definitions, and connected the relevant data relationships into a coherent operational view while preserving functional ownership.",
       "tags": [
         "business-operations",
         "enterprise-architecture",
@@ -144,7 +144,7 @@
     },
     {
       "title": "Operational intelligence and data integration",
-      "summary": "Mapped relationships across interconnected operational data structures and designed an integrated information layer to make dependencies, bottlenecks and decision gaps easier to understand.",
+      "summary": "Mapped relationships across interconnected operational data structures, tracing how information was created, maintained and consumed to expose dependencies, bottlenecks and decision gaps.",
       "tags": [
         "business-operations",
         "enterprise-architecture",
